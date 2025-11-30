@@ -1,4 +1,5 @@
-# Projet-de-Reconnaissance-d-Image-et-Encodage-par-Spikes
+# Projet de Reconnaissance d'Image et Encodage par Spikes
+
 Ce projet utilise des réseaux de neurones impulsionnels (SNNs) pour traiter des images et explorer l'encodage par spikes. Les images sont prétraitées, normalisées et encodées en utilisant un codage par taux.
 
 Résumé du Projet
